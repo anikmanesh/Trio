@@ -18,7 +18,7 @@ int main()
   cout<<numA<<","<<numB<<","<<numC<<endl;
   return 0;
 }
-
+//added the reffreance for this function
 void sortDescending(int &first, int &second, int &third)
 {
   if( first < third )
